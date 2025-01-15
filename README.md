@@ -17,5 +17,5 @@ Mis proyectos tratan mayormente sobre temas de Windows, ya sea la creación de a
 ## ¿Te parecen util o buenos mis proyectos?
 - <img src="images/learning_icon.png" alt="Aprendizaje" width="20"/> Por favor considera dejar alguna estrella para mi, asi seguire mi trabajo feliz!! :D
 ---
-Mis proyectos están diseñados para ser útiles, educativos y técnicamente sólidos. Si buscas inspiración o deseas colaborar en algun proyecto, estas en el lugar indicado :3
-[![Dóname en Ko-fi](https://img.shields.io/badge/Ko--fi-Dóname%20en%20Ko--fi-29ABE0?logo=kofi&style=for-the-badge)](https://ko-fi.com/silly69)
+Mis proyectos están diseñados para ser útiles, educativos y técnicamente sólidos. Si buscas inspiración o deseas colaborar en algun proyecto, estas en el lugar indicado :3 Ademas si te son de utilidad mis proyectos podrias considerar darme una pequeña donación, cualquiera es bien recibida. Gracias.
+[![Considera el donarme](https://img.shields.io/badge/Ko--fi-en%20Ko--fi-29ABE0?logo=kofi&style=for-the-badge)](https://ko-fi.com/silly69)
