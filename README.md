@@ -2,7 +2,7 @@
 ![0](https://komarev.com/ghpvc/?username=s-illy)
 
 ## Acerca de mí
-Soy s-illy, no tengo mucho que contar de mi, tan solo hago programas basicos o simples pero con gran utilidad. (Almenos podria llegar a ser util)
+Soy s-illy, no tengo mucho que contar de mi, tan solo hago programas basicos o simples pero con algo de utilidad.
 
 ## Áreas de Especialización
 - <img src="images/programming_icon.png" alt="Programación" width="20"/> **Lenguajes de Programación:** C#, Python, HTML y JavaScript
@@ -15,9 +15,7 @@ Mis proyectos tratan mayormente sobre temas de Windows, ya sea la creación de a
 - <img src="images/learning_icon.png" alt="Aprendizaje" width="20"/> Ademas cada programa el cual se le puede dar un uso malicioso viene con una solución incluida :)
 
 
-## Te parece util o buenos mis proyectos?
+## ¿Te parecen util o buenos mis proyectos?
 - <img src="images/learning_icon.png" alt="Aprendizaje" width="20"/> Por favor considera dejar alguna estrella para mi, asi seguire mi trabajo feliz!! :D
-
-## ¿Por qué seguir mi trabajo?
-Mis proyectos están diseñados para ser útiles, educativos y técnicamente sólidos, con un enfoque en la resolución de problemas reales. Si buscas inspiración o deseas colaborar en algun proyecto, aqui podras.
 ---
+Mis proyectos están diseñados para ser útiles, educativos y técnicamente sólidos. Si buscas inspiración o deseas colaborar en algun proyecto, estas en el lugar indicado :3
