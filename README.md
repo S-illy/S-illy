@@ -1,5 +1,4 @@
-# Hola :3
-![0](https://komarev.com/ghpvc/?username=s-illy) personas han visto mi perfil
+# Bienvenido a mi perfil :D
 
 ## Acerca de mí
 Soy s-illy, no tengo mucho que contar de mi, tan solo hago programas basicos o simples pero con algo de utilidad.
@@ -19,3 +18,4 @@ Mis proyectos tratan mayormente sobre temas de Windows, ya sea la creación de a
 - <img src="images/learning_icon.png" alt="Aprendizaje" width="20"/> Por favor considera dejar alguna estrella para mi, asi seguire mi trabajo feliz!! :D
 ---
 Mis proyectos están diseñados para ser útiles, educativos y técnicamente sólidos. Si buscas inspiración o deseas colaborar en algun proyecto, estas en el lugar indicado :3
+[![Dóname en Ko-fi](https://img.shields.io/badge/Ko--fi-Dóname%20en%20Ko--fi-29ABE0?logo=kofi&style=for-the-badge)](https://ko-fi.com/silly69)
