@@ -1,5 +1,5 @@
 # Hola :3
-![0](https://komarev.com/ghpvc/?username=s-illy)
+![0](https://komarev.com/ghpvc/?username=s-illy) personas han visto mi perfil
 
 ## Acerca de mí
 Soy s-illy, no tengo mucho que contar de mi, tan solo hago programas basicos o simples pero con algo de utilidad.
