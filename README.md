@@ -19,4 +19,4 @@ Mis proyectos tratan mayormente sobre temas de Windows, ya sea la creación de a
 ---
 Mis proyectos están diseñados para ser útiles, educativos y técnicamente sólidos. Si buscas inspiración o deseas colaborar en algun proyecto, estas en el lugar indicado :3 Ademas si te son de utilidad mis proyectos podrias considerar darme una pequeña donación, cualquiera es bien recibida. Gracias.
 
-[![Considera el donarme](https://img.shields.io/badge/Ko--fi-en%20odoname-29ABE0?logo=kofi&style=for-the-badge)](https://ko-fi.com/silly69)
+[![Considera el donarme](https://img.shields.io/badge/Ko--fi-en%20doname-29ABE0?logo=kofi&style=for-the-badge)](https://ko-fi.com/silly69)
