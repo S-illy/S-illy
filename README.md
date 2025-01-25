@@ -10,7 +10,8 @@ Mis proyectos tratan mayormente sobre temas de Windows, ya sea la creación de a
 - <img src="images/security.png" alt="Aprendizaje" width="20"/> Hago programas de codigo abierto los cuales varian en su tema
 - <img src="images/danger.png" alt="Aprendizaje" width="20"/> Hago programas de codigo abierto que tratan sobre los peligros de abrir archivos desconocidos
 - <img src="images/foco.png" alt="Aprendizaje" width="20"/> Cada repositorio el cual subo acepta pull request, si deseas mejorar el codigo.
-Ademas están diseñados para ser útiles, educativos y técnicamente sólidos. Si buscas inspiración o deseas colaborar en algun proyecto, estas en el lugar indicado :3 Ademas si te son de utilidad mis proyectos podrias considerar darme una pequeña donación.
 ---
+<img src="images/sparkle.png" alt="Aprendizaje" width="20"/> Ademas están diseñados para ser útiles, educativos y técnicamente sólidos. Si te son de utilidad podrias considerar donarme un poco.
 
-[![Considera el donarme](https://img.shields.io/badge/Ko--fi-en%20doname-29ABE0?logo=kofi&style=for-the-badge)](https://ko-fi.com/silly69)
+
+[![Considera el donarme](https://img.shields.io/badge/Ko--fi-doname-29ABE0?logo=kofi&style=for-the-badge)](https://ko-fi.com/silly69) [![Considera visitar discord](https://img.shields.io/badge/Visita_mi-Discord-blue)](https://discord.gg/Qc5VWJU5uC) 
