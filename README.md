@@ -8,7 +8,7 @@ Soy s-illy, no tengo mucho que contar de mi, tan solo hago programas basicos o s
 ## Sobre mis proyectos
 Mis proyectos tratan mayormente sobre temas de Windows, ya sea la creación de archivos o programas:
 - <img src="images/security.png" alt="Aprendizaje" width="20"/> Hago programas de codigo abierto los cuales varian en su tema
-- <img src="images/danger.png" alt="Aprendizaje" width="20"/> Hago programas de codigo abierto que tratan sobre los peligros de abrir archivos desconocidos
+- <img src="images/danger.png" alt="Aprendizaje" width="20"/> Hago malware en python y c#
 - <img src="images/foco.png" alt="Aprendizaje" width="20"/> Cada repositorio el cual subo acepta pull request, si deseas mejorar el codigo.
 ---
 <img src="images/sparkle.png" alt="Aprendizaje" width="20"/> Ademas están diseñados para ser útiles, educativos y técnicamente sólidos. Si te son de utilidad podrias considerar donarme un poco.
